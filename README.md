@@ -32,7 +32,7 @@ It helped me understand:
 
 ## 📸 Preview
 
-_(You can add a screenshot here if available)_
+<img src="img/preview.png" width="80%" style="border-radius:10px;">
 
 ## 🚀 Notes
 
